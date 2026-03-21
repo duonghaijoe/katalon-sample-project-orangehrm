@@ -9,6 +9,7 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <executionProfileName>default</executionProfileName>
    <testSuiteGuid>ts-4-automated-emp-leave</testSuiteGuid>
    <testCaseLink>
       <guid>tc-a-3-verify-employee-list</guid>

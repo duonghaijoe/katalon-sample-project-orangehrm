@@ -9,6 +9,7 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <executionProfileName>default</executionProfileName>
    <testSuiteGuid>ts-3-automated-auth</testSuiteGuid>
    <testCaseLink>
       <guid>tc-a-1-verify-login-page-elements</guid>

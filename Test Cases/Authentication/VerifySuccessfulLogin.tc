@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC-A-2: Login with valid credentials, verify dashboard loads</description>
+   <name>VerifySuccessfulLogin</name>
+   <tag>smoke,authentication,read-only</tag>
+   <comment></comment>
+   <testCaseGuid>tc-a-2-verify-successful-login</testCaseGuid>
+</TestCaseEntity>

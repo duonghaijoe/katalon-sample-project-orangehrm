@@ -1,0 +1,8 @@
+bin/
+Libs/
+.classpath
+.project
+.settings/
+*.prj.bak
+Reports/
+Checkpoints/

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>OrangeHRM Trial Sample Project — Automated smoke tests for trial user onboarding</description>
+   <name>katalon-sample-project-orangehrm</name>
+   <tag></tag>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <migratedVersion>5.9.0</migratedVersion>
+   <sourceContent>
+      <enableRecorder>true</enableRecorder>
+   </sourceContent>
+   <type>WEBUI</type>
+</Project>

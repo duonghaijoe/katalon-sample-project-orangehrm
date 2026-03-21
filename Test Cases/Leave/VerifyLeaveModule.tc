@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC-A-4: Navigate to Leave module and verify leave list page</description>
+   <name>VerifyLeaveModule</name>
+   <tag>smoke,leave,read-only</tag>
+   <comment></comment>
+   <testCaseGuid>tc-a-4-verify-leave-module</testCaseGuid>
+</TestCaseEntity>

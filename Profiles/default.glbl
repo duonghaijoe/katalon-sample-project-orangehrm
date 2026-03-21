@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description>Default execution profile with OrangeHRM AUT configuration</description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Application Under Test URL</description>
+      <initValue>'https://orangehrm-001.cec.katalon.com/web/index.php/auth/login'</initValue>
+      <name>AUT_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Admin username</description>
+      <initValue>'Admin'</initValue>
+      <name>AUT_ADMIN_USERNAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Admin password</description>
+      <initValue>'Katalon@123'</initValue>
+      <name>AUT_ADMIN_PASSWORD</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

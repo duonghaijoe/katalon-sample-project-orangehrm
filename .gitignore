@@ -6,3 +6,4 @@ Libs/
 *.prj.bak
 Reports/
 Checkpoints/
+.env

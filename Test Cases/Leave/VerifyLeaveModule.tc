@@ -2,7 +2,8 @@
 <TestCaseEntity>
    <description>TC-A-4: Navigate to Leave module and verify leave list page</description>
    <name>VerifyLeaveModule</name>
-   <tag>smoke,leave,read-only</tag>
+   <tag>leave,smoke,read-only</tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>tc-a-4-verify-leave-module</testCaseGuid>
 </TestCaseEntity>

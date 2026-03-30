@@ -5,10 +5,12 @@
  * Read-only, no data mutations. Self-contained (no Object Repository needed).
  * Selectors verified via Playwright against OrangeHRM OS 5.7.
  */
-import com.kms.katalon.core.testobject.TestObject
-import com.kms.katalon.core.testobject.ConditionType
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.configuration.RunConfiguration
+import com.kms.katalon.core.testobject.ConditionType
+import com.kms.katalon.core.testobject.TestObject
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+
+import internal.GlobalVariable
 
 TestObject css(String selector) {
 	TestObject to = new TestObject(selector)
@@ -22,16 +24,12 @@ TestObject xpath(String expr) {
 	return to
 }
 
-String autUrl = RunConfiguration.getExecutionProperties().get('AUT_URL') ?: 'https://orangehrm-001.cec.katalon.com/web/index.php/auth/login'
-String adminUser = RunConfiguration.getExecutionProperties().get('AUT_ADMIN_USERNAME') ?: 'Admin'
-String adminPass = RunConfiguration.getExecutionProperties().get('AUT_ADMIN_PASSWORD') ?: 'Katalon@123'
-
 // Login
 WebUI.openBrowser('')
-WebUI.navigateToUrl(autUrl)
+WebUI.navigateToUrl(GlobalVariable.AUT_URL)
 WebUI.maximizeWindow()
-WebUI.setText(css('input[name="username"]'), adminUser)
-WebUI.setText(css('input[name="password"]'), adminPass)
+WebUI.setText(css('input[name="username"]'), GlobalVariable.AUT_ADMIN_USERNAME)
+WebUI.setText(css('input[name="password"]'), GlobalVariable.AUT_ADMIN_PASSWORD)
 WebUI.click(css('button[type="submit"]'))
 WebUI.waitForPageLoad(15)
 

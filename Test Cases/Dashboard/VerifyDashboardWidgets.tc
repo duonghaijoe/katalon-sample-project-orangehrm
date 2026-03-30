@@ -2,7 +2,8 @@
 <TestCaseEntity>
    <description>TC-A-5: Verify dashboard loads with widgets visible</description>
    <name>VerifyDashboardWidgets</name>
-   <tag>smoke,dashboard,read-only</tag>
+   <tag>smoke,read-only,dashboard</tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>tc-a-5-verify-dashboard-widgets</testCaseGuid>
 </TestCaseEntity>

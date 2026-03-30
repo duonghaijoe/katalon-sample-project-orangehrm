@@ -7,3 +7,5 @@ Libs/
 Reports/
 Checkpoints/
 .env
+.cache/
+.playwright-cli/

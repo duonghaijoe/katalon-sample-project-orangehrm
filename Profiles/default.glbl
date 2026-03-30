@@ -8,15 +8,35 @@
       <description>Application Under Test URL</description>
       <initValue>'https://orangehrm-001.cec.katalon.com/web/index.php/auth/login'</initValue>
       <name>AUT_URL</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Admin username</description>
       <initValue>'Admin'</initValue>
       <name>AUT_ADMIN_USERNAME</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Admin password</description>
       <initValue>'Katalon@123'</initValue>
       <name>AUT_ADMIN_PASSWORD</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ess0422'</initValue>
+      <name>AUT_ESS_USERNAME</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Kat@lon123'</initValue>
+      <name>AUT_ESS_PASSWORD</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

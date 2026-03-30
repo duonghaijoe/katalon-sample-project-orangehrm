@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_My TimesheetTimesheet PeriodProjectActivity9</name>
+   <tag></tag>
+   <elementGuidId>940d3a81-cf16-49ca-84b0-295bbf7d6022</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-layout-context ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-layout-context</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9111a686-42bb-47f7-95ab-119e2d1920aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>d5388c9b-7bc2-4cb8-8457-38a66e179100</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My TimesheetTimesheet PeriodProjectActivity9Mon10Tue11Wed12Thu13Fri14Sat15SunTotalInternal Shared Services - QA Activity CatalogManual Functional Testing01:0001:0001:0001:0001:0001:0001:0007:00Total01:0001:0001:0001:0001:0001:0001:0007:00Status: Not Submitted Edit  Submit </value>
+      <webElementGuid>6b766db5-fad0-411e-99bf-756670e8c483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3ac37ae69a454c3db9d7780654a23ded</value>
+      <webElementGuid>e0daca09-7311-447f-84c8-13a2ffbad56f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-layout-context ')]</value>
+      <webElementGuid>232c0126-a2c8-4d4d-a666-80ca689fe47d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-layout-context ')]</value>
+      <webElementGuid>57061bfb-53cb-4852-aa3b-0dd03dd179f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'My TimesheetTimesheet PeriodProjectActivity9Mon10Tue11Wed12Thu13Fri14Sat15SunTotalInternal Shared Services - QA Activity CatalogManual Functional Testing01:0001:0001:0001:0001:0001:0001:0007:00Total01:0001:0001:0001:0001:0001:0001:0007:00Status: Not Submitted Edit  Submit ' or . = 'My TimesheetTimesheet PeriodProjectActivity9Mon10Tue11Wed12Thu13Fri14Sat15SunTotalInternal Shared Services - QA Activity CatalogManual Functional Testing01:0001:0001:0001:0001:0001:0001:0007:00Total01:0001:0001:0001:0001:0001:0001:0007:00Status: Not Submitted Edit  Submit ')]</value>
+      <webElementGuid>ec9c4ec2-9d50-498b-bd1f-fe509e538d6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

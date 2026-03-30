@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_07_00</name>
+   <tag></tag>
+   <elementGuidId>aae5ed2b-05db-4be8-bc70-fd2f94bded59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' --total ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-timesheet-table-body-cell ') and contains(concat(' ', normalize-space(@class), ' '), ' --freeze-right ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.--total .orangehrm-timesheet-table-body-cell.--freeze-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d01a0c6c-3d3e-4fe3-8cd5-c419e9f75fde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-timesheet-table-body-cell --center --freeze-right --highlight-2</value>
+      <webElementGuid>5cb343fc-694a-4bc6-8801-26e10d4f8002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>07:00</value>
+      <webElementGuid>09179f3a-9997-4d42-8526-5454866c7009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-6e5f9081e4a9a0e8dfa059f9410d8dba</value>
+      <webElementGuid>c18a68fa-c6b4-4cc4-9648-78f891f6a463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' --total ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-timesheet-table-body-cell ') and contains(concat(' ', normalize-space(@class), ' '), ' --freeze-right ')]</value>
+      <webElementGuid>b6f5ebc7-ca01-4e00-9446-ded48dcffd03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' --total ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-timesheet-table-body-cell ') and contains(concat(' ', normalize-space(@class), ' '), ' --freeze-right ')]</value>
+      <webElementGuid>584129be-4dcc-422b-9afd-c1a77fd26367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '07:00' or . = '07:00')]</value>
+      <webElementGuid>164303d8-e086-42fd-b281-56adcd9d1e46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

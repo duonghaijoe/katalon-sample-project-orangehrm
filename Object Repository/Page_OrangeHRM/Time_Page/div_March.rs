@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_March</name>
+   <tag></tag>
+   <elementGuidId>e33d1626-d975-45ee-8599-a7a3402917ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-selector-month ')]//div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-calendar-selector-month div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0b437f37-6af7-4eb4-860b-287ddab1d68a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-calendar-selector-month-selected</value>
+      <webElementGuid>d9a86290-3983-461a-b920-69eee8c185df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>March</value>
+      <webElementGuid>08a51463-1242-4732-8364-9a595ad8283b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-404ee7d026300d159ee9b32f8757be32</value>
+      <webElementGuid>08f8bcff-effc-4fdb-9977-a6c1ebcd2698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-selector-month ')]//div</value>
+      <webElementGuid>c1e12bb7-6ec4-4a4d-84c5-4dee7f294b50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-selector-month ')]//div</value>
+      <webElementGuid>7e5c6341-fe11-4d65-bf96-936dc0627db7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'March' or . = 'March')]</value>
+      <webElementGuid>af755a54-6250-4c5e-a72c-b0fc32ddca3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

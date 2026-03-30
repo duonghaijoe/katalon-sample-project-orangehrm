@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_New York Sales Office</name>
+   <tag></tag>
+   <elementGuidId>bd991fa7-8c54-418f-9c52-82787d7fd77b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-text-input ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-grid-item--gutters:nth-child(3) .oxd-select-text-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eee6bb89-7626-4177-aa64-ca1df5ebe9df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-select-text-input</value>
+      <webElementGuid>f74e6353-fd21-41ef-b60f-26eb363ebf1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>c10dcd7d-cc6f-4189-b4ee-23fcf8f8d642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New York Sales Office</value>
+      <webElementGuid>e4ca47af-3293-485a-a418-497be5685762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f334708f570a85c870e1e22caeb4e6b2</value>
+      <webElementGuid>51f60ee9-f5ca-4d54-9597-b243ccca46c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-text-input ')]</value>
+      <webElementGuid>7c6f0a22-3d70-4925-b65a-03c0b38f3ec0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-text-input ')]</value>
+      <webElementGuid>b3ca00ee-a4ba-429f-85d9-3d65720945d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'New York Sales Office' or . = 'New York Sales Office')]</value>
+      <webElementGuid>f63f85ba-e487-4102-9220-983390fc3e02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

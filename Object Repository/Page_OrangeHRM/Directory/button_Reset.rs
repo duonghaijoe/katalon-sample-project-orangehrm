@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Reset</name>
+   <tag></tag>
+   <elementGuidId>3b0dface-71f9-40e3-91a0-7f1ce28dcc1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--ghost ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-button--ghost</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>22b27d24-23af-42dd-9860-3046988016fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>reset</value>
+      <webElementGuid>d0db17cc-018a-408e-bee8-bc1152edf32d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-button oxd-button--medium oxd-button--ghost</value>
+      <webElementGuid>556bd9ce-92a8-4dad-8696-7e6220bdc557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Reset </value>
+      <webElementGuid>a0fc4469-0db5-4de3-9576-610cc56323a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ef7f43ec453324a4a56d01ea272ece4b</value>
+      <webElementGuid>d9f4d86a-5d0f-425e-a27e-ab3fbb9c24e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--ghost ')]</value>
+      <webElementGuid>7de06926-c7a6-4412-8b3e-1d233bd24a2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--ghost ')]</value>
+      <webElementGuid>078c71a2-9bca-41e4-9760-b1fa53d3cc8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'reset' and (text() = ' Reset ' or . = ' Reset ')]</value>
+      <webElementGuid>81c08776-5fbb-49a1-99e9-f975a6ef8ae9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

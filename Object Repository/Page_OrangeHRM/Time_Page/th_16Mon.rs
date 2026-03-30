@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_16Mon</name>
+   <tag></tag>
+   <elementGuidId>539ca1bc-1c77-4cc7-bd0c-244f6c7e4525</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-timesheet-table-header-cell ') and contains(concat(' ', normalize-space(@class), ' '), ' --center ') and (name() = 'th') and (position() = 3)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th.orangehrm-timesheet-table-header-cell.--center:nth-child(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>88e5ec23-6b09-40f6-ab97-4bbbea719531</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-timesheet-table-header-cell --center</value>
+      <webElementGuid>5633062c-3db5-4ffe-a7b5-d20973a74a57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>23Mon</value>
+      <webElementGuid>d891a319-8bae-40ee-9c8f-e6b537da7085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-cc716ec2e7f7a816f75f1485d3748e80</value>
+      <webElementGuid>dc660698-548f-43d8-ae4e-e7a2a83f71c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-timesheet-table-header-cell ') and contains(concat(' ', normalize-space(@class), ' '), ' --center ') and (name() = 'th') and (position() = 3)]</value>
+      <webElementGuid>646c503e-94db-4ece-8d38-162fd50de6fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-timesheet-table-header-cell ') and contains(concat(' ', normalize-space(@class), ' '), ' --center ') and (name() = 'th') and (position() = 3)]</value>
+      <webElementGuid>6769413b-dd33-4eb1-8064-a9ecd5855e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = '23Mon' or . = '23Mon')]</value>
+      <webElementGuid>85477652-609e-47b2-b3e1-4bd6ffd983ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

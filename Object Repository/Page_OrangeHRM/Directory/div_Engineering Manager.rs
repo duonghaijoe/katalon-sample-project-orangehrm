@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Engineering Manager</name>
+   <tag></tag>
+   <elementGuidId>930226a1-94e4-4012-8c8a-15ef61d8a4cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-option ') and (position() = 4)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-select-option:nth-child(4)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e403a252-b73a-43cc-a24f-988309fc420d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>01fc8622-2d0f-4e5a-a4a2-e7dbe7be9de9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-select-option</value>
+      <webElementGuid>a3dd01f8-4be1-40ca-958d-b8f48036f5bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Engineering Manager</value>
+      <webElementGuid>0ba93379-5c2e-446b-ae64-06b3986157ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-35787bec07cb74dc7ed2a7b8746f4b03</value>
+      <webElementGuid>52e77fa2-5ee3-4ef5-85c8-dbcce50db647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-option ') and (position() = 4)]</value>
+      <webElementGuid>4a1510fc-db09-4279-8199-704e85b4e749</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-option ') and (position() = 4)]</value>
+      <webElementGuid>df3cca45-5697-4e75-b673-5be50bd88575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Engineering Manager' or . = 'Engineering Manager')]</value>
+      <webElementGuid>17302a8f-3dc4-4e33-842b-1eef6b0d7119</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

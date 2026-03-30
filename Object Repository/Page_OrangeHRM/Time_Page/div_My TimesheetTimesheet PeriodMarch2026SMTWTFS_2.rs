@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_My TimesheetTimesheet PeriodMarch2026SMTWTFS_2</name>
+   <tag></tag>
+   <elementGuidId>07e68712-f393-4c8d-90cd-cea9447edc9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-layout-context ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-layout-context</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>240c5e14-12ed-4ae4-a9fe-fd5e9c2d43ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>139d0ec7-d689-43ed-8562-1c6ce6f80225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My TimesheetTimesheet PeriodStatus: </value>
+      <webElementGuid>c4a89b62-17a3-4eb2-99f1-259b6651fa13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3ac37ae69a454c3db9d7780654a23ded</value>
+      <webElementGuid>61fe20dc-5e15-4913-815d-5ae1e07cdead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-layout-context ')]</value>
+      <webElementGuid>d1907aab-b0ce-4c64-8d0f-b5ef5ff07f02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-layout-context ')]</value>
+      <webElementGuid>83b87ac6-6bf9-4894-b5aa-6315ddebab28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'My TimesheetTimesheet PeriodStatus: ' or . = 'My TimesheetTimesheet PeriodStatus: ')]</value>
+      <webElementGuid>1cfa0aee-6933-4234-af07-4c6cfb2c7e80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

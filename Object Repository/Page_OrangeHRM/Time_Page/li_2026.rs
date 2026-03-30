@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_2026</name>
+   <tag></tag>
+   <elementGuidId>0ab796e7-d569-4e7d-8652-0236e4ee87ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-dropdown--option ') and (position() = 57)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-calendar-dropdown--option:nth-child(57)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>60dce013-5fec-4cfc-a005-c3c417577991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-calendar-dropdown--option --selected</value>
+      <webElementGuid>ba44bfaf-2816-4226-a147-fa2595b91c84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2026</value>
+      <webElementGuid>99d8fa32-8b2f-4408-a2cf-af05181dc2fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-63067c9a2ed900afaae77f0191a4a335</value>
+      <webElementGuid>0f2cd861-cec6-433b-a3d4-cf134be34713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-dropdown--option ') and (position() = 57)]</value>
+      <webElementGuid>5b43d777-a058-467a-a1f4-88b6c770efd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-dropdown--option ') and (position() = 57)]</value>
+      <webElementGuid>8f23e830-af00-4902-9bf2-b43407b2505d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '2026' or . = '2026')]</value>
+      <webElementGuid>ac5d6ccd-2882-4c94-9064-9e6a82091603</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

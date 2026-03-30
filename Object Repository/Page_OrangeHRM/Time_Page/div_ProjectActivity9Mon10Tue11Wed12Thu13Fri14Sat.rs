@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ProjectActivity9Mon10Tue11Wed12Thu13Fri14Sat</name>
+   <tag></tag>
+   <elementGuidId>7cb51475-2b85-4252-a127-9ee4a0892b0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-timesheet-body ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.orangehrm-timesheet-body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cd4ca708-179b-4319-ba79-88971bd9d688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-timesheet-body</value>
+      <webElementGuid>929f6f9f-3166-4917-9ddd-d2dbb4647dd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ProjectActivity9Mon10Tue11Wed12Thu13Fri14Sat15SunProjectManual Functional TestingAdd Row</value>
+      <webElementGuid>76991ed6-ad64-46a0-8f72-ab086132f258</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-125c42920316fa76c360ad86dc35a951</value>
+      <webElementGuid>00f9e47f-fd72-4cce-b382-360a317f2d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-timesheet-body ')]</value>
+      <webElementGuid>93298e99-6083-478f-8b20-63a0bb9c64ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-timesheet-body ')]</value>
+      <webElementGuid>c2ecd35b-4b6f-4877-96ce-4c52787b47e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ProjectActivity9Mon10Tue11Wed12Thu13Fri14Sat15SunProjectManual Functional TestingAdd Row' or . = 'ProjectActivity9Mon10Tue11Wed12Thu13Fri14Sat15SunProjectManual Functional TestingAdd Row')]</value>
+      <webElementGuid>b1837a6e-67dc-4d46-8889-a27cc3563013</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

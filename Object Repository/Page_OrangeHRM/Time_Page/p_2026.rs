@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_2026</name>
+   <tag></tag>
+   <elementGuidId>629d617b-3716-471c-9278-839701ece62b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-selector-year ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-text--p ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-calendar-selector-year .oxd-text--p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a8014aae-bb42-4fbb-9082-55eeb026179b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--p</value>
+      <webElementGuid>176f8cf9-b7bc-4f3e-be61-f7f27c3af5ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2026</value>
+      <webElementGuid>5b00961d-3f68-4146-8632-648f10fee45a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3b5dab52dabac5461ad617449bc92b50</value>
+      <webElementGuid>fdb2650a-791e-4382-b3dd-b9a2d60a6f3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-selector-year ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-text--p ')]</value>
+      <webElementGuid>9792018f-8a68-49a2-ad19-b1000301667b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-calendar-selector-year ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-text--p ')]</value>
+      <webElementGuid>cb53c491-c426-429d-8653-bd726e0ae38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '2026' or . = '2026')]</value>
+      <webElementGuid>ba587ef2-4daa-4989-97b0-a15b058d1a6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

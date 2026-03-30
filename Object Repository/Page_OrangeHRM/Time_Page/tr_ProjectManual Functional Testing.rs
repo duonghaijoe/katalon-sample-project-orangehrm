@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tr_ProjectManual Functional Testing</name>
+   <tag></tag>
+   <elementGuidId>b9eeb1ab-a946-4732-b223-468364c26b40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-timesheet-table-body-row ') and (position() = 1)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.orangehrm-timesheet-table-body-row:nth-child(1)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tr</value>
+      <webElementGuid>3dd28b74-dcd2-4df1-95fb-ce2e8869b4c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-timesheet-table-body-row</value>
+      <webElementGuid>74de1bd6-d15d-4261-bd03-e83f1397ca9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ProjectManual Functional Testing</value>
+      <webElementGuid>ca54fd21-b3be-47c8-aae4-0a48aa225620</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-95db7483e7987c0ba6dfbf874ebf301a</value>
+      <webElementGuid>9c175517-863d-437e-97bd-ced8c5d44598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-timesheet-table-body-row ') and (position() = 1)]</value>
+      <webElementGuid>17d158b9-d4ab-422e-ac70-e082548b3928</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' orangehrm-timesheet-table-body-row ') and (position() = 1)]</value>
+      <webElementGuid>2c2f2697-415a-45de-952e-593d56197e5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//tr[(text() = 'ProjectManual Functional Testing' or . = 'ProjectManual Functional Testing')]</value>
+      <webElementGuid>74699a40-be1b-48b9-9cb4-9a277ea80531</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTimesheetHistoryDisplayed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36233702-067f-4e12-8966-05f8a77ccf2c</testCaseGuid>
+</TestCaseEntity>

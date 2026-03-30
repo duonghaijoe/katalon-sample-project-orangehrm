@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_My Leave</name>
+   <tag></tag>
+   <elementGuidId>7901bacc-c1bf-40b6-9364-5a8c58650232</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab ') and (position() = 2)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-topbar-body-nav-tab:nth-child(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>1dcd6664-33db-4a2f-a94f-1aeb24a34dfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-topbar-body-nav-tab</value>
+      <webElementGuid>7597c459-979c-484e-9369-d3667cf51df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Leave</value>
+      <webElementGuid>36745e7b-521e-49a1-8a79-bbe2978c1a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e72d02986896ae0005583dddb3bbdd47</value>
+      <webElementGuid>a7ab86d8-bc28-498a-9d35-9a79b9c424ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab ') and (position() = 2)]</value>
+      <webElementGuid>ef82a701-bbc5-455d-b977-5cef6709efa4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab ') and (position() = 2)]</value>
+      <webElementGuid>b77705f0-de98-4e50-9839-885633728bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'My Leave' or . = 'My Leave')]</value>
+      <webElementGuid>89dc3d93-51a7-4f9d-9ccb-d6b445d8e82c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

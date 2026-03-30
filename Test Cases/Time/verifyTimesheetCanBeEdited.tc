@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTimesheetCanBeEdited</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9778807e-1dad-438a-b218-5c30093f5c07</testCaseGuid>
+</TestCaseEntity>

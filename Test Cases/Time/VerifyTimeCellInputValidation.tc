@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyTimeCellInputValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0a77d7ca-0ed4-4346-803b-ef0f72f8bc15</testCaseGuid>
+</TestCaseEntity>

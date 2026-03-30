@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Texas RD</name>
+   <tag></tag>
+   <elementGuidId>3ac1f205-1ecb-42db-9b7e-f5ca48b5fa01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-option ') and (position() = 5)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-select-option:nth-child(5)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>16622e20-50e1-4648-98b9-851c22084079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>0ddf2c54-f76e-4d41-97b5-392a01ee8875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-select-option</value>
+      <webElementGuid>4364cc5d-5694-4971-bc69-92ed6da218e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Texas R&amp;D</value>
+      <webElementGuid>5fb2446c-07aa-4427-b4c8-dd42afe4f1ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-dd783148f94f619b986f20aaaffa4970</value>
+      <webElementGuid>303c8b61-ad93-4feb-b872-e5c24fb21579</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-option ') and (position() = 5)]</value>
+      <webElementGuid>9f2f322b-655a-4050-8f43-6fe03781496f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-option ') and (position() = 5)]</value>
+      <webElementGuid>3c1cec14-a2e9-4b68-b8c0-4df7b053d8bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Texas R&amp;D' or . = 'Texas R&amp;D')]</value>
+      <webElementGuid>e4ace146-e2bc-4d64-99a2-c32ddc96fc43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
